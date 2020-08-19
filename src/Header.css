@@ -50,3 +50,10 @@
   margin-left: auto;
   margin-right: 20px;
 }
+
+.istiak__omi {
+  height: 30px;
+  width: 50px;
+  border-radius: 999px;
+  margin-right: 3px;
+}

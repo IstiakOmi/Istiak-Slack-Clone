@@ -25,10 +25,16 @@ function Header() {
         {/* Input */}
         <input placeholder="Search Here" />
       </div>
+
       <div className="header__right">
         {/* help icon */}
         <HelpOutlineIcon />
       </div>
+      <img
+        className="istiak__omi"
+        src="https://cdn.dribbble.com/users/430847/screenshots/5097896/dribbble-final.gif"
+        alt="Istiak Jaman"
+      />
     </div>
   );
 }
